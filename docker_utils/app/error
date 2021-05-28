@@ -1,0 +1,9 @@
+(5fd7ba97-adf6-4458-bfba-bc51edba3a1c) Execution failed due to configuration error: Unrecognized SSL message, plaintext connection?
+
+x-amzn-errortype	InternalServerErrorException
+x-cache	Error from cloudfront
+
+500
+{
+  "message": "Internal server error"
+}
